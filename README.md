@@ -1,16 +1,13 @@
-## Hi there 👋
+## SUAVE, ESSE E O MEU PERFIL 🎱
 
-<!--
-**MGUELSOUSA/MGUELSOUSA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- EU ME CHAMO: Miguel De Sousa🤠
+  
+  
+- sou um estudante do :ALURA START👨‍💻
+- estou me desenvolvendo na linguagem javascript👨‍💻
+- espaço ultilizado para fins de organizaçao e compartilhamento dos meus projetos desenvolvidos📖
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  **VOCE PODERA ENTRAR EM CONTATO COMIGO📫
+  miguelsousa@gmail.com
+  @MGUELSOUSA
